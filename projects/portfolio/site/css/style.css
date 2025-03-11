@@ -1,0 +1,16 @@
+body {
+    background-color: #f8f8f8;
+}
+
+h1, h2, h3 {
+    color: #005a9c;
+}
+
+p, li, a {
+    color: #00274d;
+}
+
+nav a {
+    margin-right: 15px;
+    text-decoration: none;
+}
