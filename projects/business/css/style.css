@@ -33,7 +33,7 @@ header img {
 main {
     background-color: #FBFFFF;
     color: #1C2827;
-    padding: 40px 0;
+   ;
 }
 
 section {
@@ -47,14 +47,14 @@ h1, h2 {
 img {
     max-width: 100%;
     height: auto;
-    border-radius: 8px;
+    
 }
 
 footer {
     background-color: #000;
     color: #fff;
     text-align: center;
-    padding: 20px 0;
+  
 }
 
 @media (max-width: 820px) {
