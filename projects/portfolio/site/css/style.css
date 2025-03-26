@@ -12,3 +12,8 @@ nav a {
     margin-right: 15px;
     text-decoration: none;
 }
+
+.contact-info {
+    font-size: 0.8rem;
+    color: #333;
+}
