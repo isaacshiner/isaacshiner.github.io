@@ -45,22 +45,5 @@ img[src="img/profile.jpg"] {
     gap: 20px;
 }
 
-.col-md-4 {
-    flex: 1;
-    min-width: 300px;
-    max-width: 30%;
-    text-align: center;
-}
 
-@media (max-width: 768px) {
-    .col-md-4 {
-        max-width: 100%;
-    }
-    img[src="img/orchestra.jpeg"], img[src="img/hillelstaff.webp"], img[src="img/hilleltable.webp"] {
-        width: 200px;
-    }
-    img[src="img/profile.jpg"] {
-        width: 120px;
-        height: 120px;
-    }
-}
+
