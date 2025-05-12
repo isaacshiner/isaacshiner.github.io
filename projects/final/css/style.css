@@ -1,8 +1,6 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Merriweather, serif;
     line-height: 1.6;
-    margin: 0;
-    padding: 0;
     background-color: #e7eff8;
     color: #6f6159;
 }
@@ -11,7 +9,7 @@ body {
     max-width: 900px;
     margin: 0 auto;
     padding: 20px;
-    background-color: white;
+    background-color: #FAF9F6;
    
 }
 
@@ -77,4 +75,8 @@ a:hover {
     text-align: left;
 }
 
-
+.container {
+    max-width: 900px;
+    padding: 20px;
+    background-color: #FAF9F6
+}
